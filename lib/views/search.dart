@@ -1,5 +1,4 @@
 import 'package:BitirmeProjem/helper/constants.dart';
-import 'package:BitirmeProjem/models/user.dart';
 import 'package:BitirmeProjem/services/database.dart';
 import 'package:BitirmeProjem/views/chat.dart';
 import 'package:BitirmeProjem/widget/widget.dart';
@@ -131,7 +130,6 @@ class _SearchState extends State<Search> {
   }
 
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -194,5 +192,3 @@ class _SearchState extends State<Search> {
     );
   }
 }
-
-

@@ -1,5 +1,4 @@
 import 'package:BitirmeProjem/helper/helperfunctions.dart';
-import 'package:BitirmeProjem/helper/theme.dart';
 import 'package:BitirmeProjem/services/auth.dart';
 import 'package:BitirmeProjem/services/database.dart';
 import 'package:BitirmeProjem/views/chatrooms.dart';
